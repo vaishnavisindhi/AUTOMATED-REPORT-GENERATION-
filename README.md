@@ -23,5 +23,6 @@ I was assigned a task to develop an automated report generation system using Pyt
 
 The final output of this task was a report named sample_report.pdf, which showcases both the data analysis and the formatting skills.
 
+OUTPUT:  https://github.com/user-attachments/assets/2cdd0a7d-f48e-4097-86b5-7f90cf71e178
 
 
